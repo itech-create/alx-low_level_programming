@@ -1,1 +1,1 @@
-c project
+First C Project
